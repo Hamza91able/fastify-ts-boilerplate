@@ -1,0 +1,7 @@
+{
+  "collectCoverage": true,
+  "coverageReporters": ["html", "text"],
+  "preset": "ts-jest",
+  "roots": ["<rootDir>/src/test"],
+  "testMatch": ["**/*.test.ts"]
+}

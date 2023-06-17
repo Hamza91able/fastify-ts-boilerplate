@@ -1,0 +1,19 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug TypeScript",
+      "type": "node",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "runtimeArgs": ["-r", "ts-node/register"],
+      "args": ["src/main/server.ts"],
+      "console": "integratedTerminal",
+      "protocol": "inspector",
+      "sourceMaps": true
+    }
+  ]
+}
