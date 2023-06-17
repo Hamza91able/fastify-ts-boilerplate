@@ -7,7 +7,7 @@ import {
 import { logger } from "../lib/logger";
 
 const Exchanges = {
-  event: "x-edrella-event",
+  event: "x-test-event",
 };
 
 const RoutingKeys = {
