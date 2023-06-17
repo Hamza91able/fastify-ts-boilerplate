@@ -1,0 +1,14 @@
+{
+  "name": "fastify-ts-boilerplate",
+  "version": "1.0.0",
+  "description": "This is a boilerplate code to get started with fastify ts and jest",
+  "maintainers": [
+    "Hamza91able"
+  ],
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
